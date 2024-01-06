@@ -1,7 +1,6 @@
-# Health Insurance Cross Sell
-Neste repositório estará contido o processo de um projeto de machine learning para previsão da propensão de venda de seguros de carros para uma 
-seguradora que já possui uma base de clientes de seguro de vida.
+# Health Insurance Cross Sell - Overview
 
+On this repository will be contained the process of a machine learning project in Learning to Rank with the objective to classify and rank clients interested in purchasing vehicle insurance. The data have been acquired in the challenge [Health Insurance Cross Sell Prediction](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction) from Kaggle
 ## Data Description
 Variable	            Definition
 
