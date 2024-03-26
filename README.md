@@ -5,10 +5,10 @@ seguradora que já possui uma base de clientes de seguro de saúde.
 
 # 1.0 Business problem
 ## 1.1 Problem
-    Esta empresa de seguros já possui uma carteira de clientes e deseja prever quais clientes desta carteira estariam interessados em adquirir um seguro de carro. Com recursos limitados, a empresa irá entrar em contato com os potenciais clientes para oferecer este novo produto de forma assim a otimizar a conversão. Este é um projeto de learning to rank (LTR).
+Esta empresa de seguros já possui uma carteira de clientes e deseja prever quais clientes desta carteira estariam interessados em adquirir um seguro de carro. Com recursos limitados, a empresa irá entrar em contato com os potenciais clientes para oferecer este novo produto de forma assim a otimizar a conversão. Este é um projeto de learning to rank (LTR).
 
 ## 1.2 Assumptions
-    De forma a promover melhor o produto, a empresa ira contactar somente 40% da base dos clientes, sendo assim ela necessita de uma lista ordenada de clientes com maior propensão de adquirir o seguro de carro.
+De forma a promover melhor o produto, a empresa ira contactar somente 40% da base dos clientes, sendo assim ela necessita de uma lista ordenada de clientes com maior propensão de adquirir o seguro de carro.
 
 # 2.0 Solution strategy
 ## 2.1 Final product
